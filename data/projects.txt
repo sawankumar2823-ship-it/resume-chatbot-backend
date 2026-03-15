@@ -1,0 +1,14 @@
+Sawan Kumar is an aspiring backend software developer.
+
+Skills:
+Java, React, Python, FastAPI, HTML, CSS, Git.
+
+Projects:
+1. Resume Website built with React and CSS.
+2. Voice Recognition System built with Python.
+3. Java OOP Mini Projects.
+
+Contact:
+Email: sawankumar2823@gmail.com
+GitHub: https://github.com/sawankumar2823-ship-it
+LinkedIn: https://linkedin.com/in/sawan-kumar

@@ -1,0 +1,161 @@
+portfolio_knowledge = [
+{
+"title": "About Sawan Kumar",
+"content": """
+Sawan Kumar is an aspiring Software Development Engineer with strong foundations in Data Structures and Algorithms.
+He focuses on backend development using Python and FastAPI and enjoys building scalable backend systems and AI-powered applications.
+
+Sawan is passionate about writing clean, efficient, and production-ready code and is actively preparing for software engineering roles in product-based companies.
+"""
+},
+
+{
+"title": "Personal Information",
+"content": """
+Full Name: Sawan Kumar
+Date of Birth: 23 August 2006
+Location: Simdega near Ranchi, Jharkhand, India
+"""
+},
+
+{
+"title": "Education",
+"content": """
+Sawan Kumar is currently pursuing a Bachelor of Technology (B.Tech) in Computer Science and Engineering at NIST University in Berhampur, Odisha. He started his degree in 2024.
+
+Intermediate Education:
+SR DAV Public School, Pundag, Ranchi
+Year: 2022 – 2024
+Stream: Physics, Chemistry, Mathematics (PCM)
+Score: 70%
+
+Matriculation:
+SR DAV Public School, Pundag, Ranchi
+Year: 2020 – 2022
+Score: 87%
+"""
+},
+
+{
+"title": "Technical Skills",
+"content": """
+Programming Languages:
+Python
+Java
+
+Web Development:
+HTML
+CSS
+JavaScript
+React
+
+Backend Technologies:
+FastAPI
+
+Tools:
+Git
+GitHub
+"""
+},
+
+{
+"title": "AI and Backend Technologies",
+"content": """
+Sawan has experience working with AI and backend technologies including:
+
+LangChain
+FAISS Vector Database
+HuggingFace Embeddings
+Gemini API
+
+These technologies are used to build AI-powered applications and Retrieval-Augmented Generation systems.
+"""
+},
+
+{
+"title": "Soft Skills",
+"content": """
+Team management
+Leadership
+Communication skills
+Critical thinking
+Attention to detail
+Attentive mindset
+"""
+},
+
+{
+"title": "Languages",
+"content": """
+Hindi – Full professional proficiency
+English – Full professional proficiency
+"""
+},
+
+{
+"title": "Projects",
+"content": """
+Resume Portfolio Website
+
+Sawan built a personal portfolio website using React, HTML, CSS, and JavaScript.
+The website showcases his skills, education, projects, and contact details.
+
+It also includes an AI chatbot assistant powered by FastAPI, LangChain, FAISS vector database, HuggingFace embeddings, and the Gemini API.
+The chatbot uses a Retrieval-Augmented Generation pipeline to answer questions about Sawan.
+
+Live Weather API Project
+
+This project fetches real-time weather data using external APIs and displays it using a simple web interface built with HTML and CSS.
+
+Voice Recognition Project
+
+This project analyzes audio files such as MP3 or WAV and determines whether the voice is human or AI-generated.
+"""
+},
+
+{
+"title": "Certifications",
+"content": """
+C++ Programming Certification
+Provided by Cisco
+August 2024 – October 2024
+
+Cloud Computing Certification
+Provided by Google
+February 2025 – April 2025
+
+BUILDATHON participation certificate
+Provided by GUVI & HCL
+February 2026
+"""
+},
+
+{
+"title": "Hobbies and Interests",
+"content": """
+Sawan Kumar's hobbies and interests include reading books, coding,
+playing games, listening to music, and exploring new places.
+"""
+},
+
+{
+"title": "Contact Information",
+"content": """
+Email: sawankumar2823@gmail.com
+Phone: +91 9508530215
+"""
+},
+
+{
+"title": "Portfolio and Resume",
+"content": """
+Portfolio Website:
+https://sawankumar2823-ship-it.github.io/resume-website/
+
+Resume Download Link:
+https://sawankumar2823-ship-it.github.io/resume-website/Sawan_Resume.pdf
+
+If someone asks for Sawan's resume, provide the resume download link.
+"""
+}
+]
